@@ -10,11 +10,11 @@
 
       "key": "hipy_js_爱看机器人",
 
-      "name": "公众号【云星日记】",
+      "name": "X开源精粹",
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -24,7 +24,7 @@
 
       "order_num": 52,
 
-      "ext": "./drpy_js/爱看机器人.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/爱看机器人.js"
 
     },
 
@@ -32,11 +32,11 @@
 
       "key": "hipy_js_厂长资源",
 
-      "name": "QQ群：783468715",
+      "name": "X影视仓",
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -46,7 +46,7 @@
 
       "order_num": 121,
 
-      "ext": "./drpy_js/厂长资源.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/厂长资源.js"
 
     },
 
@@ -54,11 +54,11 @@
 
       "key": "hipy_js_360影视",
 
-      "name": "接口更新于0508",
+      "name": "360",
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -68,7 +68,7 @@
 
       "order_num": 15,
 
-      "ext": "./drpy_js/360影视.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/360影视.js"
 
     },
 
@@ -80,7 +80,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -90,7 +90,7 @@
 
       "order_num": 16,
 
-      "ext": "./drpy_js/996影视.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/996影视.js"
 
     },
 
@@ -102,7 +102,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -112,7 +112,7 @@
 
       "order_num": 17,
 
-      "ext": "./drpy_js/优酷.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/优酷.js"
 
     },
 
@@ -124,7 +124,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -134,7 +134,7 @@
 
       "order_num": 19,
 
-      "ext": "./drpy_js/哔哩影视.js?render=1"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/哔哩影视.js?render=1"
 
     },
 
@@ -146,7 +146,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -156,7 +156,7 @@
 
       "order_num": 20,
 
-      "ext": "./drpy_js/奇珍异兽.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/奇珍异兽.js"
 
     },
 
@@ -168,7 +168,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -178,7 +178,7 @@
 
       "order_num": 21,
 
-      "ext": "./drpy_js/百忙无果.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/百忙无果.js"
 
     },
 
@@ -190,7 +190,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -200,7 +200,7 @@
 
       "order_num": 22,
 
-      "ext": "./drpy_js/腾云驾雾.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/腾云驾雾.js"
 
     },
 
@@ -212,7 +212,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -222,7 +222,7 @@
 
       "order_num": 23,
 
-      "ext": "./drpy_js/荐片.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/荐片.js"
 
     },
 
@@ -234,7 +234,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -244,7 +244,7 @@
 
       "order_num": 24,
 
-      "ext": "./drpy_js/菜狗.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/菜狗.js"
 
     },
 
@@ -258,7 +258,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -268,7 +268,7 @@
 
       "order_num": 53,
 
-      "ext": "./drpy_js/酷云77.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/酷云77.js"
 
     },
 
@@ -280,7 +280,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -290,7 +290,7 @@
 
       "order_num": 54,
 
-      "ext": "./drpy_js/在线之家.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/在线之家.js"
 
     },
 
@@ -302,7 +302,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -312,7 +312,7 @@
 
       "order_num": 55,
 
-      "ext": "./drpy_js/兔小贝.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/兔小贝.js"
 
     },
 
@@ -324,7 +324,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -334,7 +334,7 @@
 
       "order_num": 56,
 
-      "ext": "./drpy_js/555影视[飞].js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/555影视[飞].js"
 
     },
 
@@ -346,7 +346,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -356,7 +356,7 @@
 
       "order_num": 57,
 
-      "ext": "./drpy_js/豆瓣.js?render=1"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/豆瓣.js?render=1"
 
     },
 
@@ -370,7 +370,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -380,7 +380,7 @@
 
       "order_num": 122,
 
-      "ext": "./drpy_js/耐看.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/耐看.js"
 
     },
 
@@ -392,7 +392,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -402,7 +402,7 @@
 
       "order_num": 131,
 
-      "ext": "./drpy_js/暴风资源.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/暴风资源.js"
 
     },
 
@@ -414,7 +414,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -424,7 +424,7 @@
 
       "order_num": 132,
 
-      "ext": "./drpy_js/白嫖影视.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/白嫖影视.js"
 
     },
 
@@ -436,7 +436,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -446,7 +446,7 @@
 
       "order_num": 133,
 
-      "ext": "./drpy_js/花子动漫.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/花子动漫.js"
 
     },
 
@@ -458,7 +458,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -468,7 +468,7 @@
 
       "order_num": 135,
 
-      "ext": "./drpy_js/卧龙资源.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/卧龙资源.js"
 
     },
 
@@ -480,7 +480,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -490,7 +490,7 @@
 
       "order_num": 137,
 
-      "ext": "./drpy_js/LIBVIO.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/LIBVIO.js"
 
     },
 
@@ -502,7 +502,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -512,7 +512,7 @@
 
       "order_num": 138,
 
-      "ext": "./drpy_js/量子资源.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/量子资源.js"
 
     },
 
@@ -524,7 +524,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -534,7 +534,7 @@
 
       "order_num": 139,
 
-      "ext": "./drpy_js/农民影视3.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/农民影视3.js"
 
     },
 
@@ -546,7 +546,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -556,7 +556,7 @@
 
       "order_num": 141,
 
-      "ext": "./drpy_js/金鹰资源.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/金鹰资源.js"
 
     },
 
@@ -568,7 +568,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -578,7 +578,7 @@
 
       "order_num": 143,
 
-      "ext": "./drpy_js/南瓜影视.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/南瓜影视.js"
 
     },
 
@@ -590,7 +590,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -600,7 +600,7 @@
 
       "order_num": 145,
 
-      "ext": "./drpy_js/极速资源.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/极速资源.js"
 
     },
 
@@ -612,7 +612,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -622,7 +622,7 @@
 
       "order_num": 146,
 
-      "ext": "./drpy_js/我的哔哩传参.js?type=url&params=../json/小学教育.json"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/我的哔哩传参.js?type=url&params=../json/小学教育.json"
 
     },
 
@@ -634,7 +634,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -644,7 +644,7 @@
 
       "order_num": 147,
 
-      "ext": "./drpy_js/白嫖者联盟.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/白嫖者联盟.js"
 
     },
 
@@ -656,7 +656,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -666,7 +666,7 @@
 
       "order_num": 148,
 
-      "ext": "./drpy_js/极客资源.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/极客资源.js"
 
     },
 
@@ -678,7 +678,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -688,7 +688,7 @@
 
       "order_num": 149,
 
-      "ext": "./drpy_js/大米星球.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/大米星球.js"
 
     },
 
@@ -700,7 +700,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -710,7 +710,7 @@
 
       "order_num": 150,
 
-      "ext": "./drpy_js/6V新版[磁].js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/6V新版[磁].js"
 
     },
 
@@ -722,7 +722,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -732,7 +732,7 @@
 
       "order_num": 152,
 
-      "ext": "./drpy_js/777影视.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/777影视.js"
 
     },
 
@@ -744,7 +744,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -754,7 +754,7 @@
 
       "order_num": 153,
 
-      "ext": "./drpy_js/可可影视.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/可可影视.js"
 
     },
 
@@ -766,7 +766,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -776,7 +776,7 @@
 
       "order_num": 154,
 
-      "ext": "./drpy_js/榜一短剧.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/榜一短剧.js"
 
     },
 
@@ -788,7 +788,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -798,7 +798,7 @@
 
       "order_num": 155,
 
-      "ext": "./drpy_js/大米星球[V2].js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/大米星球[V2].js"
 
     },
 
@@ -810,7 +810,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -820,7 +820,7 @@
 
       "order_num": 156,
 
-      "ext": "./drpy_js/voflix.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/voflix.js"
 
     },
 
@@ -832,7 +832,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -842,7 +842,7 @@
 
       "order_num": 157,
 
-      "ext": "./drpy_js/量子影视.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/量子影视.js"
 
     },
 
@@ -854,7 +854,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -864,7 +864,7 @@
 
       "order_num": 158,
 
-      "ext": "./drpy_js/我的哔哩.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/我的哔哩.js"
 
     },
 
@@ -876,7 +876,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -886,7 +886,7 @@
 
       "order_num": 159,
 
-      "ext": "./drpy_js/网飞猫.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/网飞猫.js"
 
     },
 
@@ -898,7 +898,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -908,7 +908,7 @@
 
       "order_num": 160,
 
-      "ext": "./drpy_js/非凡资源.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/非凡资源.js"
 
     },
 
@@ -920,7 +920,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -930,7 +930,7 @@
 
       "order_num": 161,
 
-      "ext": "./drpy_js/索尼资源.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/索尼资源.js"
 
     },
 
@@ -942,7 +942,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -952,7 +952,7 @@
 
       "order_num": 190,
 
-      "ext": "./drpy_js/新片场.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/新片场.js"
 
     },
 
@@ -964,7 +964,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -974,7 +974,7 @@
 
       "order_num": 191,
 
-      "ext": "./drpy_js/cokemv.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/cokemv.js"
 
     },
 
@@ -986,7 +986,7 @@
 
       "type": 3,
 
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
       "searchable": 1,
 
@@ -996,7 +996,7 @@
 
       "order_num": 192,
 
-      "ext": "./drpy_js/TVB云播.js"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/TVB云播.js"
 
     }
 
