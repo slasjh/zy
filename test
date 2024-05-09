@@ -88,8 +88,8 @@
      "tbl_iptv": [
         {
             "id": "ca435348-67ee-53fe-a3fd-9bbcf272b4c71",
-            "name": "冒失的风雪微信公众号",
-            "url": "https://raw.gitcode.com/msdfx/01/raw/main/4.0%E7%89%88%E6%9C%AC.txt",
+            "name": "X影视",
+            "url": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/live_Lite.txt",
             "type": "remote",
             "isActive": true,
             "epg": "https://epg.112114.xyz/"
