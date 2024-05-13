@@ -1,10 +1,7 @@
+
+
 {
-
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-
-  "homepage": "https://github.com/hjdhnx/hipy-server",
-
-  "sites": [
+    "tbl_site": [
     {
 
        "id": "a84439e9-73a8-6b89-b38b-00da0cee5e76",
@@ -68,1206 +65,695 @@
             "categories": "动作片|新闻资讯|伦理片"
         },
 
-  
+      {
+            "id": "cb20b25a-30de-4c32-b0e5-bca19cef14d5",
+            "name": "🔥官方③",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "影视",
+            "isActive": true,
+            "type": 7,
+             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/Voflix.js",
+            "categories": "动漫"
+        },
+              {
+            "id": "cb20b25a-30de-4c32-b0e5-bca19cef14d5",
+            "name": "👓影院①",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "影视",
+            "isActive": true,
+            "type": 7,
+             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/freeok.js",
+            "categories": "动漫"
+        },
+                      {
+            "id": "cb20b25a-30de-4c32-b0e5-bca19cef14d5",
+            "name": "👓影院②",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "影视",
+            "isActive": true,
+            "type": 7,
+             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/极客资源.js",
+            "categories": "动漫"
+        },
+                              {
+            "id": "cb20b25a-30de-4c32-b0e5-bca19cef14d5",
+            "name": "👓影院③",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "影视",
+            "isActive": true,
+            "type": 7,
+             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/TVB云播.js",
+            "categories": ""
+        },
+        
 
+
+       {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🧭云播①",
+            "api": "https://360zy.com/api.php/provide/vod",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": ""
+        },
+               {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🧞独家①",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/爱看机器人.js",
+            "categories": ""
+        },
+            {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🎬独家②",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/荐片.js",
+            "categories": ""
+        },
     {
-
-      "key": "hipy_js_爱看机器人",
-
-      "name": "X开源精粹",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 52,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/爱看机器人.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_厂长资源",
-
-      "name": "X影视仓",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 0,
-
-      "order_num": 121,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/厂长资源.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_360影视",
-
-      "name": "360",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 0,
-
-      "order_num": 15,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/360影视.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_996影视",
-
-      "name": "996影视(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 16,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/996影视.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_优酷",
-
-      "name": "优酷(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 17,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/优酷.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_哔哩影视",
-
-      "name": "哔哩影视(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 19,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/哔哩影视.js?render=1"
-
-    },
-
-    {
-
-      "key": "hipy_js_奇珍异兽",
-
-      "name": "奇珍异兽(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 20,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/奇珍异兽.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_百忙无果",
-
-      "name": "百忙无果(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 21,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/百忙无果.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_腾云驾雾",
-
-      "name": "腾云驾雾(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 22,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/腾云驾雾.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_荐片",
-
-      "name": "荐片(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 23,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/荐片.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_菜狗",
-
-      "name": "菜狗(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 24,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/菜狗.js"
-
-    },
-
-
-
-    {
-
-      "key": "hipy_js_酷云77",
-
-      "name": "酷云77(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 53,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/酷云77.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_在线之家",
-
-      "name": "在线之家(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 54,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/在线之家.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_兔小贝",
-
-      "name": "兔小贝(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 0,
-
-      "order_num": 55,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/兔小贝.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_555影视[飞]",
-
-      "name": "555影视[飞](drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 56,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/555影视[飞].js"
-
-    },
-
-    
-
-
-
-    {
-
-      "key": "hipy_js_耐看",
-
-      "name": "耐看(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 0,
-
-      "order_num": 122,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/耐看.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_暴风资源",
-
-      "name": "暴风资源(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 0,
-
-      "order_num": 131,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/暴风资源.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_白嫖影视",
-
-      "name": "白嫖影视(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 132,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/白嫖影视.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_花子动漫",
-
-      "name": "花子动漫(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 0,
-
-      "order_num": 133,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/花子动漫.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_卧龙资源",
-
-      "name": "卧龙资源(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 0,
-
-      "order_num": 135,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/卧龙资源.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_LIBVIO",
-
-      "name": "LIBVIO(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 137,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/LIBVIO.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_量子资源",
-
-      "name": "量子资源(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 0,
-
-      "order_num": 138,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/量子资源.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_农民影视3",
-
-      "name": "农民影视3(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 139,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/农民影视3.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_金鹰资源",
-
-      "name": "金鹰资源(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 0,
-
-      "order_num": 141,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/金鹰资源.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_南瓜影视",
-
-      "name": "南瓜影视(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 143,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/南瓜影视.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_极速资源",
-
-      "name": "极速资源(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 0,
-
-      "order_num": 145,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/极速资源.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_我的哔哩传参",
-
-      "name": "我的哔哩传参(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 146,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/我的哔哩传参.js?type=url&params=../json/小学教育.json"
-
-    },
-
-    {
-
-      "key": "hipy_js_白嫖者联盟",
-
-      "name": "白嫖者联盟(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 0,
-
-      "order_num": 147,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/白嫖者联盟.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_极客资源",
-
-      "name": "极客资源(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 0,
-
-      "order_num": 148,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/极客资源.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_大米星球",
-
-      "name": "大米星球(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 149,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/大米星球.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_6V新版[磁]",
-
-      "name": "6V新版[磁](drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 150,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/6V新版[磁].js"
-
-    },
-
-    {
-
-      "key": "hipy_js_777影视",
-
-      "name": "777影视(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 152,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/777影视.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_可可影视",
-
-      "name": "可可影视(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 153,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/可可影视.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_榜一短剧",
-
-      "name": "榜一短剧(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 0,
-
-      "order_num": 154,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/榜一短剧.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_大米星球[V2]",
-
-      "name": "大米星球[V2](drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 155,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/大米星球[V2].js"
-
-    },
-
-    {
-
-      "key": "hipy_js_voflix",
-
-      "name": "voflix(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 156,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/voflix.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_量子影视",
-
-      "name": "量子影视(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 157,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/量子影视.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_我的哔哩",
-
-      "name": "我的哔哩(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 158,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/我的哔哩.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_网飞猫",
-
-      "name": "网飞猫(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 159,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/网飞猫.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_非凡资源",
-
-      "name": "非凡资源(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 0,
-
-      "order_num": 160,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/非凡资源.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_索尼资源",
-
-      "name": "索尼资源(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 0,
-
-      "order_num": 161,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/索尼资源.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_新片场",
-
-      "name": "新片场(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 190,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/新片场.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_cokemv",
-
-      "name": "cokemv(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 191,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/cokemv.js"
-
-    },
-
-    {
-
-      "key": "hipy_js_TVB云播",
-
-      "name": "TVB云播(drpy_t3)",
-
-      "type": 7,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "filterable": 1,
-
-      "order_num": 192,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/TVB云播.js"
-
-    }
-
-  ],
-
-  "parses": [
-
-    {
-
-      "name": "777",
-
-      "url": "https://jx.777jiexi.com/player/?url=",
-
-      "type": 0,
-
-      "ext": {
-
-        "flag": [
-
-          "qiyi",
-
-          "imgo",
-
-          "爱奇艺",
-
-          "奇艺",
-
-          "qq",
-
-          "qq 预告及花絮",
-
-          "腾讯",
-
-          "youku",
-
-          "优酷",
-
-          "pptv",
-
-          "PPTV",
-
-          "letv",
-
-          "乐视",
-
-          "leshi",
-
-          "mgtv",
-
-          "芒果",
-
-          "sohu",
-
-          "xigua",
-
-          "fun",
-
-          "风行"
-
-        ]
-
-      },
-
-      "header": {
-
-        "User-Agent": "Mozilla/5.0"
-
-      }
-
-    },
-
-    {
-
-      "name": "8090g",
-
-      "url": "https://www.8090g.cn/jiexi/?url=",
-
-      "type": 0,
-
-      "ext": {
-
-        "flag": [
-
-          "qiyi",
-
-          "imgo",
-
-          "爱奇艺",
-
-          "奇艺",
-
-          "qq",
-
-          "qq 预告及花絮",
-
-          "腾讯",
-
-          "youku",
-
-          "优酷",
-
-          "pptv",
-
-          "PPTV",
-
-          "letv",
-
-          "乐视",
-
-          "leshi",
-
-          "mgtv",
-
-          "芒果",
-
-          "sohu",
-
-          "xigua",
-
-          "fun",
-
-          "风行"
-
-        ]
-
-      },
-
-      "header": {
-
-        "User-Agent": "Mozilla/5.0"
-
-      }
-
-    }
-
-  ],
-
-  "flags": [
-
-    "imgo",
-
-    "youku",
-
-    "qq",
-
-    "qq 预告及花絮",
-
-    "iqiyi",
-
-    "qiyi",
-
-    "fun",
-
-    "letv",
-
-    "leshi",
-
-    "sohu",
-
-    "tudou",
-
-    "xigua",
-
-    "cntv",
-
-    "1905",
-
-    "pptv",
-
-    "mgtv",
-
-    "wasu",
-
-    "bilibili",
-
-    "renrenmi"
-
-  ],
-
-  "lives": [
-
-    {
-
-      "group": "redirect",
-
-      "channels": [
-
-        {
-
-          "name": "杭州华数直播",
-
-          "urls": [
-
-            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"
-
-          ]
-
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "💥iMAX①",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/6V新版_磁_.js ",
+            "categories": ""
+        },
+     {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🔥动漫",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/我的哔哩.js ",
+            "categories": ""
+        },
+             {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🔥动漫",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/我的哔哩.js",
+            "categories": ""
+        },
+      {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "💢短剧",
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": ""
         },
 
-		{
-
-          "name": "云星日记直播",
-
-          "urls": [
-
-            "proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"
-
-          ]
-
+    {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🏠美剧",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/在线之家.js",
+            "categories": ""
         },
 
-		{
+            {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🉑接口①",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/可可影视.js",
+            "categories": ""
+        },
+                    {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🐱接口②",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/网飞猫.js",
+            "categories": ""
+        },
+                            {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "✈️接口③",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/LIBVIO.js",
+            "categories": ""
+        },
+                                    {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🦆接口④",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/农民影视3.js",
+            "categories": ""
+        },
+            {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "📺️接口⑤",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/白嫖影视.js",
+            "categories": ""
+        },
+                            {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🌙接口⑥",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/555影视_飞_.js",
+            "categories": ""
+        },
 
-          "name": "本地嗅探器直播",
-
-          "urls": [
-
-            "proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"
-
-          ]
-
+                {
+            "id": "8648a04e-afeb-4737-92dc-edb5f4ac1fd5",
+            "name": "关注公众号：X开源精粹",
+            "api": "http://www.lzzy.tv/api.php/provide/vod/",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": ""
+        },
+                        {
+            "id": "8648a04e-afeb-4737-92dc-edb5f4ac1fd5",
+            "name": "关注公众号：X影视仓",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": ""
         }
 
-      ]
 
-    }
 
-  ]
 
+
+  ],
+
+  "tbl_iptv": [
+        {
+            "id": "ca435348-67ee-53fe-a3fd-9bbcf272b4c71",
+            "name": "X影视",
+            "url": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/live_Lite.txt",
+            "type": "remote",
+            "isActive": true,
+            "epg": "https://epg.112114.xyz/"
+        },
+        
+    ],
+    "tbl_analyze": [
+        {
+            "id": "72a7e3c1-94de-4a1d-8d25-36b2c3de8fc5",
+            "name": "咸鱼",
+            "url": "https://jx.xyflv.cc/?url=",
+            "isActive": true
+        },
+        {
+            "id": "e883df51-5abf-47eb-836b-76e9bca6fb2e",
+            "name": "虾米",
+            "url": "https://jx.xmflv.com/?url=",
+            "isActive": true
+        },
+        {
+            "id": "d66d1c67-2895-4927-a0b6-99f6d7b4d81a",
+            "name": "夜幕",
+            "url": "https://www.yemu.xyz/?url=",
+            "isActive": true
+        },
+        {
+            "id": "4c2fdff4-d26b-4e15-b1d0-d4b5a56f3f7d",
+            "name": "M3U8.TV",
+            "url": "https://dmjx.m3u8.tv/?url=",
+            "isActive": true
+        },
+        {
+            "id": "83cf8db5-2c05-42fb-b50b-1f9a726927e7",
+            "name": "冰豆",
+            "url": "https://bd.jx.cn/?url=",
+            "isActive": true
+        },
+        {
+            "id": "4e720d91-1078-4cb5-8274-86ec6f7e4c2d",
+            "name": "CK",
+            "url": "https://www.ckplayer.vip/jiexi/?url=",
+            "isActive": true
+        },
+        {
+            "id": "f871eafc-731a-4e6d-a29b-1cf25b8c64d5",
+            "name": "PlayerJy[需点击]",
+            "url": "https://jx.playerjy.com/?url=",
+            "isActive": true
+        },
+        {
+            "id": "82a15f2f-97eb-4a65-930b-53f575c3da8d",
+            "name": "BL",
+            "url": "https://vip.bljiex.com/?v=",
+            "isActive": true
+        },
+        {
+            "id": "27b09c28-7985-48d7-bb65-ff2c8a3b52a9",
+            "name": "777Player",
+            "url": "https://jx.jsonplayer.com/player/?url=",
+            "isActive": true
+        },
+        {
+            "id": "aca361da-a5da-cd92-9394-2ce79bfb7611",
+            "name": "爱狗",
+            "url": "https://jx.i2g.cn/?url=",
+            "isActive": true
+        },
+        {
+            "id": "f32dc6eb-ac43-bbfd-c878-4869543116a5",
+            "name": "南风蓝光",
+            "url": "http://jx.66666zy.top/?url=",
+            "isActive": true
+        },
+        {
+            "id": "6c2f0160-ee66-e273-e943-e7332d3c9f50",
+            "name": "冰豆",
+            "url": "https://bd.jx.cn/?url=",
+            "isActive": true
+        },
+        {
+            "name": "猫影",
+            "url": "https://jx.xgphp.cn/player/?url=",
+            "isActive": true,
+            "id": "06ede2bf-6c41-44f7-bc69-71939fb21add"
+        },
+        {
+            "name": "1907[需点击]",
+            "url": "https://im1907.top/?jx=",
+            "isActive": true,
+            "id": "cf489437-55b8-4497-89cc-eb53a64aea6d"
+        },
+        {
+            "name": "解析云[需点击]",
+            "url": "https://jx.nnxv.cn/tv.php?url=",
+            "isActive": true,
+            "id": "09c62e21-85be-4bee-9964-bd73b1b5c262"
+        },
+        {
+            "name": "阳途",
+            "url": "https://jx.yangtu.vip/?url=",
+            "isActive": true,
+            "id": "39056f03-b91a-4dc5-8834-d995290845e7"
+        }
+    ],
+    "tbl_drive": [
+        {
+            "name": "🙋丫仙女",
+            "server": "http://alist.xiaoya.pro/",
+            "startPage": "",
+            "search": false,
+            "headers": null,
+            "params": null,
+            "isActive": true,
+            "id": "76266126-8536-bc13-f882-3bb187802cd2"
+        },
+        {
+            "name": "🤮布满灰尘",
+            "server": "https://pan.baiblog.ren/",
+            "startPage": "/🤮布满灰尘/V盘/",
+            "search": false,
+            "headers": null,
+            "params": null,
+            "isActive": true,
+            "id": "a2f6e842-0743-5dd2-a85e-cfdaecdfb298"
+        },
+        {
+            "name": "🌊七米蓝",
+            "server": "https://al.chirmyram.com",
+            "startPage": "",
+            "search": false,
+            "headers": null,
+            "params": null,
+            "isActive": true,
+            "id": "11076590-4c85-b8e5-89f2-2df4b48b2a33"
+        },
+        {
+            "name": "🌴非盘",
+            "server": "http://www.feifwp.top",
+            "startPage": "",
+            "search": false,
+            "headers": null,
+            "params": null,
+            "isActive": false,
+            "id": "7e3e270e-7c58-9a69-07f8-0d670ffe8668"
+        },
+        {
+            "name": "🥼帅盘",
+            "server": "https://hi.shuaipeng.wang",
+            "startPage": "",
+            "search": false,
+            "headers": null,
+            "params": null,
+            "isActive": false,
+            "id": "d79c7467-7321-1f28-8b75-36c633355bd6"
+        },
+        {
+            "name": "🐉神族九帝",
+            "server": "https://alist.shenzjd.com",
+            "startPage": "",
+            "search": false,
+            "headers": null,
+            "params": null,
+            "isActive": true,
+            "id": "f346cae0-2805-7dd5-aa87-0be1284dd39a"
+        },
+        {
+            "name": "☃姬路白雪",
+            "server": "https://pan.jlbx.xyz",
+            "startPage": "",
+            "search": false,
+            "headers": null,
+            "params": null,
+            "isActive": true,
+            "id": "433c5080-8a77-ffc4-73e8-167b27cbc3bc"
+        },
+        {
+            "name": "🎧听闻网盘",
+            "server": "https://wangpan.sangxuesheng.com",
+            "startPage": "",
+            "search": false,
+            "headers": null,
+            "params": null,
+            "isActive": false,
+            "id": "f9e46314-4993-e677-291e-9f970fb041f2"
+        },
+        {
+            "name": "✨星梦",
+            "server": "https://pan.bashroot.top",
+            "startPage": "",
+            "search": false,
+            "headers": null,
+            "params": null,
+            "isActive": true,
+            "id": "b68d1329-46e5-580a-2345-123fa54de141"
+        }
+    ],
+    "tbl_setting": [
+        {
+            "key": "version",
+            "value": "3.3.4",
+            "id": "1a31b14f-c5a0-4f61-b1c9-18579d5cb65e"
+        },
+        {
+            "key": "theme",
+            "value": "auto",
+            "id": "1df7f5d4-bb67-4348-b87d-3ba13329886c"
+        },
+        {
+            "key": "defaultHot",
+            "value": "kylive",
+            "id": "1fd1e45d-09f3-49a9-97ce-e6b63d66691c"
+        },
+        {
+            "key": "defaultSearchRecommend",
+            "value": "site",
+            "id": "1f850522-7ed7-4b2e-a71e-13906c73aa12"
+        },
+        {
+            "key": "defaultSearchType",
+            "value": "all",
+            "id": "0324a404-4c27-4a27-a242-fbb65af7690b"
+        },
+        {
+            "key": "defaultCheckModel",
+            "value": true,
+            "id": "5002ad49-bd83-4390-8cdf-3a0c88610d9d"
+        },
+        {
+            "key": "defaultChangeModel",
+            "value": false,
+            "id": "12a85aa7-54bd-4a6f-8256-5f68e9e21435"
+        },
+        {
+            "key": "defaultIptvEpg",
+            "value": "https://diyp1.112114.xyz/",
+            "id": "516f9565-01c9-4a0f-ba31-c93a479948ae"
+        },
+        {
+            "key": "defaultIptvLogo",
+            "value": "https://diyp1.112114.xyz/logo/",
+            "id": "28d495f0-8ee5-4cff-acfa-4409c421e4e4"
+        },
+        {
+            "key": "iptvSkipIpv6",
+            "value": false,
+            "id": "4a8c3824-d06e-4401-970c-e881eb674201"
+        },
+        {
+            "key": "iptvThumbnail",
+            "value": true,
+            "id": "a0abad7e-73fa-4bbb-a260-95c5113a2c59"
+        },
+        {
+            "key": "iptvStatus",
+            "value": false,
+            "id": "47bec447-23dd-446b-a3f0-31619842b479"
+        },
+        {
+            "key": "defaultSite",
+            "value": "BZKjALX1vvrLZb0tGm7wI",
+            "id": "bc9f4657-1ce0-4632-a588-a8d133fa43ae"
+        },
+        {
+            "key": "defaultIptv",
+            "value": "7820a319-aedc-ebf8-f486-3ebaf9c1f25d",
+            "id": "2714fc75-a135-4b12-a5c0-7834c04e9fe9"
+        },
+        {
+            "key": "defaultAnalyze",
+            "value": "aca361da-a5da-cd92-9394-2ce79bfb7611",
+            "id": "23c1f2cd-f988-4527-a618-a0cc5ff2e523"
+        },
+        {
+            "key": "analyzeFlag",
+            "value": [
+                "youku",
+                "qq",
+                "iqiyi",
+                "qiyi",
+                "letv",
+                "sohu",
+                "tudou",
+                "pptv",
+                "mgtv",
+                "bilibili"
+            ],
+            "id": "ebb662ef-1a60-4ce1-8000-59b1c47f7aa2"
+        },
+        {
+            "key": "defaultDrive",
+            "value": "76266126-8536-bc13-f882-3bb187802cd2",
+            "id": "36276f21-3410-49e9-b563-7f0ed4bb6742"
+        },
+        {
+            "key": "softSolution",
+            "value": false,
+            "id": "69264e7c-e979-4011-88b0-ec0b15767b7a"
+        },
+        {
+            "key": "skipStartEnd",
+            "value": true,
+            "id": "3240198c-b23a-4be2-99d4-bf67e407b3a3"
+        },
+        {
+            "key": "agreementMask",
+            "value": true,
+            "id": "909589c9-4d13-4f42-88e7-8947c6872868"
+        },
+        {
+            "key": "recordShortcut",
+            "value": "Shift+Meta+B",
+            "id": "1ba8cc28-3d57-4c2b-b769-01b69f78061c"
+        },
+        {
+            "key": "selfBoot",
+            "value": false,
+            "id": "4d502836-9d03-43f0-96d8-c69ddd79fa15"
+        },
+        {
+            "key": "hardwareAcceleration",
+            "value": true,
+            "id": "a0f43f0b-916a-4555-a572-c7cb1534b298"
+        },
+        {
+            "key": "ua",
+            "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+            "id": "59751da2-d20b-47db-a6f3-24ed7d5ba961"
+        },
+        {
+            "key": "communitySubscribe",
+            "value": "",
+            "id": "2e88f0b8-9011-4ebc-8a9a-0eb1a0fc8628"
+        },
+        {
+            "key": "windowPosition",
+            "value": {
+                "status": true,
+                "position": {
+                    "x": 237,
+                    "y": 161,
+                    "width": 1000,
+                    "height": 640
+                }
+            },
+            "id": "f8c3529b-7880-4f2f-b048-729335a1fd27"
+        },
+        {
+            "key": "defaultViewCasual",
+            "value": "http://api.yujn.cn/api/zzxjj.php",
+            "id": "27aa9d8c-3c4f-4c48-874e-f061989eb3f8"
+        },
+        {
+            "id": "ZESwhCfPQydKfwkm2rb3f",
+            "key": "webdev",
+            "value": {
+                "sync": false,
+                "data": {
+                    "url": "https://dav.jianguoyun.com/dav/",
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": "Z6Kh8l7UPY-Zow2RAFFae",
+            "key": "lang",
+            "value": "zh_CN"
+        },
+        {
+            "id": "0MMp0THVppUxMAt6hFFjV",
+            "key": "barrage",
+            "value": {
+                "url": "https://dmku.thefilehosting.com/?ac=dm&url=",
+                "key": "danmuku",
+                "support": [
+                    "qq",
+                    "qiyi",
+                    "youku",
+                    "mgtv"
+                ],
+                "start": "0",
+                "mode": "1",
+                "color": "2",
+                "content": "4"
+            }
+        },
+        {
+            "id": "eP1c0k2nA95gjLNiO5_x2",
+            "key": "playerMode",
+            "value": {
+                "type": "dplayer",
+                "external": "open -a /Applications/IINA.app"
+            }
+        },
+        {
+            "id": "xw-cW4YN7k3hCtfJ39MYD",
+            "key": "snifferMode",
+            "value": {
+                "type": "pie",
+                "url": ""
+            }
+        },
+        {
+            "key": "webdevUrl",
+            "value": "https://dav.jianguoyun.com/dav/",
+            "id": "81d080ba-d732-495c-8e68-f5e5bba3e838"
+        },
+        {
+            "key": "webdevUsername",
+            "value": "",
+            "id": "425625d8-673a-440a-9cd5-36edc68d3a25"
+        },
+        {
+            "key": "webdevPassword",
+            "value": "",
+            "id": "e85f7e25-b80b-410c-92bb-7ba2755f2492"
+        },
+        {
+            "key": "broadcasterType",
+            "value": "xgplayer",
+            "id": "aa0f970a-1bc4-4eba-b742-f70194b36dc1"
+        },
+        {
+            "key": "snifferType",
+            "value": "pie",
+            "id": "25fd6714-94fb-4caa-9565-63daaf253141"
+        },
+        {
+            "key": "externalPlayer",
+            "value": "open -a /Applications/IINA.app",
+            "id": "f013bb13-0eb9-424f-b403-3d6d4c4a1b62"
+        }
+    ]
 }
