@@ -11,7 +11,7 @@
        "playUrl": "",
        "search": 1,
        "group": "X影视",
-       "isActive": true,
+       "isActive": false,
        "categories": "",
        "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/豆瓣.js?render=1"
 
@@ -19,7 +19,7 @@
         {
 
        "id": "a84439e9-73a8-6b89-b38b-12444cee5e76",
-       "name": "🔥X开源精粹2",
+       "name": "🔥X开源精粹",
        "type": 7,
        "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
        "playUrl": "",
@@ -40,6 +40,7 @@
             "isActive": true,
             "type": 1,
             "ext": "",
+            "cate_exclude":"伦理片",
             "categories": ""
         },
                  {
