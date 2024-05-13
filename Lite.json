@@ -16,6 +16,20 @@
        "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/豆瓣.js?render=1"
 
     },
+        {
+
+       "id": "a84439e9-73a8-6b89-b38b-12444cee5e76",
+       "name": "🔥X开源精粹2",
+       "type": 7,
+       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+       "playUrl": "",
+       "search": 1,
+       "group": "X影视",
+       "isActive": true,
+       "categories": "",
+       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/量子影视.js"
+
+    },
          {
             "id": "8648a04e-afeb-4737-92dc-edb5f4ac1fd5",
             "name": "🔥X影视仓",
