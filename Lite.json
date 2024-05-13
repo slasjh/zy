@@ -5,6 +5,70 @@
   "homepage": "https://github.com/hjdhnx/hipy-server",
 
   "sites": [
+    {
+
+       "id": "a84439e9-73a8-6b89-b38b-00da0cee5e76",
+       "name": "🔥X开源精粹",
+       "type": 7,
+       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+       "playUrl": "",
+       "search": 1,
+       "group": "影视",
+       "isActive": true,
+       "categories": "",
+       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/豆瓣.js?render=1"
+
+    },
+         {
+            "id": "8648a04e-afeb-4737-92dc-edb5f4ac1fd5",
+            "name": "🔥X影视仓",
+            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": ""
+        },
+                 {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🔥官方①",
+            "api": "http://api.1080zyku.com/inc/api_mac10.php",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": "演员|新闻资讯|伦理片"
+        },
+          {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🔥官方②",
+            "api": "https://api.1080zyku.com/inc/apijson.php?ac=list",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": "新闻资讯|伦理片"
+        },
+         {
+            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "name": "🔥官方③",
+            "api": "https://subocaiji.com/api.php/provide/vod/",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": "动作片|新闻资讯|伦理片"
+        },
+
+  
 
     {
 
@@ -12,7 +76,7 @@
 
       "name": "X开源精粹",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -34,7 +98,7 @@
 
       "name": "X影视仓",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -56,7 +120,7 @@
 
       "name": "360",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -78,7 +142,7 @@
 
       "name": "996影视(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -100,7 +164,7 @@
 
       "name": "优酷(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -122,7 +186,7 @@
 
       "name": "哔哩影视(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -144,7 +208,7 @@
 
       "name": "奇珍异兽(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -166,7 +230,7 @@
 
       "name": "百忙无果(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -188,7 +252,7 @@
 
       "name": "腾云驾雾(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -210,7 +274,7 @@
 
       "name": "荐片(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -232,7 +296,7 @@
 
       "name": "菜狗(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -256,7 +320,7 @@
 
       "name": "酷云77(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -278,7 +342,7 @@
 
       "name": "在线之家(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -300,7 +364,7 @@
 
       "name": "兔小贝(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -322,7 +386,7 @@
 
       "name": "555影视[飞](drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -338,27 +402,7 @@
 
     },
 
-    {
-
-      "key": "hipy_js_豆瓣",
-
-      "name": "豆瓣(drpy_t3)",
-
-      "type": 3,
-
-      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 1,
-
-      "order_num": 57,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/豆瓣.js?render=1"
-
-    },
+    
 
 
 
@@ -368,7 +412,7 @@
 
       "name": "耐看(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -390,7 +434,7 @@
 
       "name": "暴风资源(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -412,7 +456,7 @@
 
       "name": "白嫖影视(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -434,7 +478,7 @@
 
       "name": "花子动漫(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -456,7 +500,7 @@
 
       "name": "卧龙资源(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -478,7 +522,7 @@
 
       "name": "LIBVIO(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -500,7 +544,7 @@
 
       "name": "量子资源(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -522,7 +566,7 @@
 
       "name": "农民影视3(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -544,7 +588,7 @@
 
       "name": "金鹰资源(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -566,7 +610,7 @@
 
       "name": "南瓜影视(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -588,7 +632,7 @@
 
       "name": "极速资源(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -610,7 +654,7 @@
 
       "name": "我的哔哩传参(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -632,7 +676,7 @@
 
       "name": "白嫖者联盟(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -654,7 +698,7 @@
 
       "name": "极客资源(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -676,7 +720,7 @@
 
       "name": "大米星球(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -698,7 +742,7 @@
 
       "name": "6V新版[磁](drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -720,7 +764,7 @@
 
       "name": "777影视(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -742,7 +786,7 @@
 
       "name": "可可影视(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -764,7 +808,7 @@
 
       "name": "榜一短剧(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -786,7 +830,7 @@
 
       "name": "大米星球[V2](drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -808,7 +852,7 @@
 
       "name": "voflix(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -830,7 +874,7 @@
 
       "name": "量子影视(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -852,7 +896,7 @@
 
       "name": "我的哔哩(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -874,7 +918,7 @@
 
       "name": "网飞猫(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -896,7 +940,7 @@
 
       "name": "非凡资源(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -918,7 +962,7 @@
 
       "name": "索尼资源(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -940,7 +984,7 @@
 
       "name": "新片场(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -962,7 +1006,7 @@
 
       "name": "cokemv(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
@@ -984,7 +1028,7 @@
 
       "name": "TVB云播(drpy_t3)",
 
-      "type": 3,
+      "type": 7,
 
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
 
