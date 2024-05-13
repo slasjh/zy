@@ -121,7 +121,7 @@
 
        {
             "id": "c2ca30e7-897e-f519-3122-7aef7db2fb5c",
-            "name": "🧭云播①",
+            "name": "🧭云播",
             "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "",
             "search": 1,
@@ -133,7 +133,7 @@
         },
                {
             "id": "562aeb6b-8c03-3660-54e2-291f121dac9e",
-            "name": "🧞独家①",
+            "name": "🧞独家",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
             "search": 1,
@@ -150,14 +150,14 @@
             "playUrl": "",
             "search": 1,
             "group": "X影视",
-            "isActive": true,
+            "isActive": false,
             "type": 7,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/荐片.js",
             "categories": ""
         },
     {
             "id": "89cee8c5-c86a-9391-a9f2-6fb7131614e3",
-            "name": "💥iMAX①",
+            "name": "💥iMAX",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
             "search": 1,
@@ -200,7 +200,7 @@
             "playUrl": "",
             "search": 1,
             "group": "X影视",
-            "isActive": true,
+            "isActive": false,
             "type": 7,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/在线之家.js",
             "categories": ""
