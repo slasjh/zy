@@ -29,7 +29,7 @@
             "categories": ""
         },
                  {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "a84439e9-73a8-6b89-b38b-00da0cee5e76",
             "name": "🔥官方①",
             "api": "http://api.1080zyku.com/inc/api_mac10.php",
             "playUrl": "",
@@ -41,7 +41,7 @@
             "categories": "演员|新闻资讯|伦理片"
         },
           {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "ed148f12-4096-42d4-a1ce-3fcce06109bc",
             "name": "🔥官方②",
             "api": "https://api.1080zyku.com/inc/apijson.php?ac=list",
             "playUrl": "",
@@ -53,7 +53,7 @@
             "categories": "新闻资讯|伦理片"
         },
          {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "bd80f4af-9a34-4efb-878a-ae9dc2207b35",
             "name": "🔥官方③",
             "api": "https://subocaiji.com/api.php/provide/vod/",
             "playUrl": "",
@@ -66,7 +66,7 @@
         },
 
       {
-            "id": "cb20b25a-30de-4c32-b0e5-bca19cef14d5",
+            "id": "cd6b1cbe-42bb-42d3-7844-9494716487e5",
             "name": "🔥官方③",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -78,7 +78,7 @@
             "categories": "动漫"
         },
               {
-            "id": "cb20b25a-30de-4c32-b0e5-bca19cef14d5",
+            "id": "76489ae3-c843-35a2-860b-58868e8ee4cd",
             "name": "👓影院①",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -90,7 +90,7 @@
             "categories": "动漫"
         },
                       {
-            "id": "cb20b25a-30de-4c32-b0e5-bca19cef14d5",
+            "id": "840806fb-5378-1003-4e13-2a1609379304",
             "name": "👓影院②",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -102,7 +102,7 @@
             "categories": "动漫"
         },
                               {
-            "id": "cb20b25a-30de-4c32-b0e5-bca19cef14d5",
+            "id": "59a19f43-e8b7-5359-427f-a007ecd2d8e3",
             "name": "👓影院③",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -117,7 +117,7 @@
 
 
        {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "c2ca30e7-897e-f519-3122-7aef7db2fb5c",
             "name": "🧭云播①",
             "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "",
@@ -129,7 +129,7 @@
             "categories": ""
         },
                {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "562aeb6b-8c03-3660-54e2-291f121dac9e",
             "name": "🧞独家①",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -141,7 +141,7 @@
             "categories": ""
         },
             {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "28393120-9d11-5110-b209-c925b2d8f87e",
             "name": "🎬独家②",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -153,7 +153,7 @@
             "categories": ""
         },
     {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "89cee8c5-c86a-9391-a9f2-6fb7131614e3",
             "name": "💥iMAX①",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -165,7 +165,7 @@
             "categories": ""
         },
      {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "566fb0e1-8619-09dd-de4a-42ba872737dc",
             "name": "🔥动漫",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -177,7 +177,7 @@
             "categories": ""
         },
              {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "ef2c10e3-8d3f-d632-727b-667fdd2e5b50",
             "name": "🔥动漫",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -189,7 +189,7 @@
             "categories": ""
         },
       {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "f10d2925-a991-1fa1-475f-21ac57ef698f",
             "name": "💢短剧",
             "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
             "playUrl": "",
@@ -202,7 +202,7 @@
         },
 
     {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "a9e6e326-5a44-5764-fcd1-addc4c76ab76",
             "name": "🏠美剧",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -215,7 +215,7 @@
         },
 
             {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "cb658939-5abf-5d37-81d9-16633d80818e",
             "name": "🉑接口①",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -227,7 +227,7 @@
             "categories": ""
         },
                     {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "11296d39-f697-875c-4b93-6f44545cc0d8",
             "name": "🐱接口②",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -239,7 +239,7 @@
             "categories": ""
         },
                             {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "b90da766-fcd4-477e-b595-cd3a23fb85fc",
             "name": "✈️接口③",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -251,7 +251,7 @@
             "categories": ""
         },
                                     {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "2cc99a31-9a03-16f4-3a8e-6db1f113bc5e",
             "name": "🦆接口④",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -263,7 +263,7 @@
             "categories": ""
         },
             {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "84439e9-73a8-6b89-b38b-00da01234e76",
             "name": "📺️接口⑤",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -275,7 +275,7 @@
             "categories": ""
         },
                             {
-            "id": "84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "84439e9-73a8-6b89-b38b-00da01235e76",
             "name": "🌙接口⑥",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
@@ -288,7 +288,7 @@
         },
 
                 {
-            "id": "8648a04e-afeb-4737-92dc-edb5f4ac1fd5",
+            "id": "8648a04e-afeb-4737-92dc-edb512361fd5",
             "name": "关注公众号：X开源精粹",
             "api": "http://www.lzzy.tv/api.php/provide/vod/",
             "playUrl": "",
@@ -300,7 +300,7 @@
             "categories": ""
         },
                         {
-            "id": "8648a04e-afeb-4737-92dc-edb5f4ac1fd5",
+            "id": "8648a04e-afeb-4737-92dc-edb512371fd5",
             "name": "关注公众号：X影视仓",
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
