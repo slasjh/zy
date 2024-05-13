@@ -82,31 +82,31 @@
         },
               {
             "id": "76489ae3-c843-35a2-860b-58868e8ee4cd",
-            "name": "👓影院①",
+            "name": "👓影院②",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
-            "isActive": true,
+            "isActive": false,
             "type": 7,
              "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/freeok.js",
             "categories": ""
         },
                       {
             "id": "840806fb-5378-1003-4e13-2a1609379304",
-            "name": "👓影院②",
+            "name": "👓影院①",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
-            "isActive": true,
+            "isActive": false,
             "type": 7,
              "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/极客资源.js",
             "categories": ""
         },
                               {
             "id": "59a19f43-e8b7-5359-427f-a007ecd2d8e3",
-            "name": "👓影院③",
+            "name": "👓影院",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
             "search": 1,
@@ -175,7 +175,7 @@
             "playUrl": "",
             "search": 1,
             "group": "X影视",
-            "isActive": true,
+            "isActive": false,
             "type": 7,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/哔哩影视.js",
             "categories": ""
@@ -237,7 +237,7 @@
             "playUrl": "",
             "search": 1,
             "group": "X影视",
-            "isActive": true,
+            "isActive": false,
             "type": 7,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/LIBVIO.js",
             "categories": ""
@@ -249,7 +249,7 @@
             "playUrl": "",
             "search": 1,
             "group": "X影视",
-            "isActive": true,
+            "isActive": false,
             "type": 7,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/农民影视3.js",
             "categories": ""
@@ -261,7 +261,7 @@
             "playUrl": "",
             "search": 1,
             "group": "X影视",
-            "isActive": true,
+            "isActive": false,
             "type": 7,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/白嫖影视.js",
             "categories": ""
@@ -273,7 +273,7 @@
             "playUrl": "",
             "search": 1,
             "group": "X影视",
-            "isActive": true,
+            "isActive": false,
             "type": 7,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/555影视_飞_.js",
             "categories": ""
