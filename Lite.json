@@ -4,7 +4,7 @@
     "tbl_site": [
     {
 
-       "id": "a84439e9-73a8-6b89-b38b-00da0cee5e76",
+       "id": "a84439e9-73a8-6b89-b38b-12350cee5e76",
        "name": "🔥X开源精粹",
        "type": 7,
        "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
@@ -29,7 +29,7 @@
             "categories": ""
         },
                  {
-            "id": "a84439e9-73a8-6b89-b38b-00da0cee5e76",
+            "id": "a84439e9-73a8-6b89-b38b-12340cee5e76",
             "name": "🔥官方①",
             "api": "https://api.1080zyku.com/inc/apijson.php",
             "playUrl": "",
@@ -54,7 +54,7 @@
         },
 
       {
-            "id": "cd6b1cbe-42bb-42d3-7844-9494716487e5",
+            "id": "cd6b1cbe-42bb-42d3-7844-4512716487e5",
             "name": "🔥官方③",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
