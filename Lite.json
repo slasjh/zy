@@ -20,6 +20,18 @@
          {
             "id": "8648a04e-afeb-4737-92dc-edb5f4ac1fd5",
             "name": "🔥X影视仓",
+            "api": "https://360zy.com/api.php/provide/vod",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": ""
+        },
+                 {
+            "id": "c2ca30e7-897e-f519-3122-7aef7db2fb5c",
+            "name": "🔥官方①",
             "api": "https://hhzyapi.com/api.php/provide/vod/",
             "playUrl": "",
             "search": 1,
@@ -31,7 +43,7 @@
         },
                  {
             "id": "a84439e9-73a8-6b89-b38b-12340cee5e76",
-            "name": "🔥官方①",
+            "name": "🔥官方②",
             "api": "https://api.1080zyku.com/inc/apijson.php",
             "playUrl": "",
             "search": 1,
@@ -43,7 +55,7 @@
         },
           {
             "id": "ed148f12-4096-42d4-a1ce-3fcce06109bc",
-            "name": "🔥官方②",
+            "name": "🔥官方③",
             "api": "https://subocaiji.com/api.php/provide/vod/",
             "playUrl": "",
             "search": 1,
@@ -53,10 +65,50 @@
             "ext": "",
             "categories": ""
         },
+ 
+                    {
+            "id": "c2ca30e7-897e-f519-3122-7aef5db4fb3c",
+            "name": "🔥官方④",
+            "api": "https://jszyapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": ""
+        },
+                            {
+            "id": "c2ca30e7-897e-f519-3311-7aef5db4fb3c",
+            "name": "🔥官方⑤",
+            "api": "https://www.tuhao.tv/api.php/provide/vod/",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": ""
+        },
+                                    {
+            "id": "c2ca30e7-897e-f519-4879-7aef5db6fb3c",
+            "name": "🔥官方⑥",
+            "api": "http://zyz.yxys.top/api.php/provide/vod/",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": ""
+        },
+
+   
+
 
       {
             "id": "cd6b1cbe-42bb-42d3-7844-4512716487e5",
-            "name": "🔥官方③",
+            "name": "👓影院①",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
             "search": 1,
@@ -66,23 +118,11 @@
              "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/voflix.js ",
             "categories": ""
         },
-               {
-            "id": "c2ca30e7-897e-f519-3122-7aef7db2fb5c",
-            "name": "🧭云播",
-            "api": "https://360zy.com/api.php/provide/vod",
-            "playUrl": "",
-            "search": 1,
-            "group": "切片",
-            "isActive": true,
-            "type": 1,
-            "ext": "",
-            "categories": ""
-        },
- 
 
-           {
+ 
+                              {
             "id": "59a19f43-e8b7-5359-427f-a007ecd2d8e3",
-            "name": "👓影院",
+            "name": "👓影院②",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
             "search": 1,
@@ -93,10 +133,9 @@
             "categories": ""
         },
         
-
-    {
+       {
             "id": "89cee8c5-c86a-9391-a9f2-6fb7131614e3",
-            "name": "💥iMAX",
+            "name": "👓影院③",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "playUrl": "",
             "search": 1,
@@ -106,6 +145,32 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/6V新版_磁_.js ",
             "categories": ""
         },
+          {
+            "id": "cb658939-5abf-5d37-81d9-16633d80818e",
+            "name": "👓影院④",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/可可影视.js",
+            "categories": ""
+        },
+                    {
+            "id": "11296d39-f697-875c-4b93-6f44545cc0d8",
+            "name": "👓影院⑤",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "X影视",
+            "isActive": true,
+            "type": 7,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/网飞猫.js",
+            "categories": ""
+        },
+
+     
 
       {
             "id": "f10d2925-a991-1fa1-475f-21ac57ef698f",
@@ -121,38 +186,13 @@
         },
 
    // {  "id": "a9e6e326-5a44-5764-fcd1-addc4c76ab76",  "name": "🏠美剧", "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",    "playUrl": "",   "search": 1,  "group": "X影视",   "isActive": false,   "type": 7,  "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/在线之家.js",   "categories": "" },
-
-            {
-            "id": "cb658939-5abf-5d37-81d9-16633d80818e",
-            "name": "🉑接口①",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-            "playUrl": "",
-            "search": 1,
-            "group": "X影视",
-            "isActive": true,
-            "type": 7,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/可可影视.js",
-            "categories": ""
-        },
-                    {
-            "id": "11296d39-f697-875c-4b93-6f44545cc0d8",
-            "name": "🐱接口②",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-            "playUrl": "",
-            "search": 1,
-            "group": "X影视",
-            "isActive": true,
-            "type": 7,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/网飞猫.js",
-            "categories": ""
-        },
-                          
-
+     
+           
 
                 {
             "id": "8648a04e-afeb-4737-92dc-edb512361fd5",
             "name": "关注公众号：X开源精粹",
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "playUrl": "",
             "search": 1,
             "group": "切片",
@@ -164,7 +204,7 @@
                         {
             "id": "8648a04e-afeb-4737-92dc-edb512371fd5",
             "name": "关注公众号：X影视仓",
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "playUrl": "",
             "search": 1,
             "group": "切片",
