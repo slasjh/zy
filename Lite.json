@@ -169,7 +169,7 @@
       {
             "id": "f10d2925-a991-1fa1-475f-21ac57ef698f",
             "name": "💢短剧",
-            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+            "api": "https://hhzyapi.com/api.php/provide/vod/",
             "playUrl": "",
             "search": 1,
             "group": "切片",
@@ -179,18 +179,7 @@
             "categories": "短剧"
         },
 
-    {
-            "id": "a9e6e326-5a44-5764-fcd1-addc4c76ab76",
-            "name": "🏠美剧",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-            "playUrl": "",
-            "search": 1,
-            "group": "X影视",
-            "isActive": false,
-            "type": 7,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/在线之家.js",
-            "categories": ""
-        },
+   // {  "id": "a9e6e326-5a44-5764-fcd1-addc4c76ab76",  "name": "🏠美剧", "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",    "playUrl": "",   "search": 1,  "group": "X影视",   "isActive": false,   "type": 7,  "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/在线之家.js",   "categories": "" },
 
             {
             "id": "cb658939-5abf-5d37-81d9-16633d80818e",
@@ -268,7 +257,7 @@
                 {
             "id": "8648a04e-afeb-4737-92dc-edb512361fd5",
             "name": "关注公众号：X开源精粹",
-            "api": "http://www.lzzy.tv/api.php/provide/vod/",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "search": 1,
             "group": "切片",
@@ -280,7 +269,7 @@
                         {
             "id": "8648a04e-afeb-4737-92dc-edb512371fd5",
             "name": "关注公众号：X影视仓",
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "search": 1,
             "group": "切片",
