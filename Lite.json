@@ -66,31 +66,21 @@
              "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/voflix.js ",
             "categories": ""
         },
-              {
-            "id": "76489ae3-c843-35a2-860b-58868e8ee4cd",
-            "name": "👓影院②",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+               {
+            "id": "c2ca30e7-897e-f519-3122-7aef7db2fb5c",
+            "name": "🧭云播",
+            "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "",
             "search": 1,
-            "group": "X影视",
-            "isActive": false,
-            "type": 7,
-             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/freeok.js",
+            "group": "切片",
+            "isActive": true,
+            "type": 1,
+            "ext": "",
             "categories": ""
         },
-                      {
-            "id": "840806fb-5378-1003-4e13-2a1609379304",
-            "name": "👓影院①",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-            "playUrl": "",
-            "search": 1,
-            "group": "X影视",
-            "isActive": false,
-            "type": 7,
-             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/极客资源.js",
-            "categories": ""
-        },
-                              {
+ 
+
+           {
             "id": "59a19f43-e8b7-5359-427f-a007ecd2d8e3",
             "name": "👓影院",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
@@ -104,43 +94,6 @@
         },
         
 
-
-       {
-            "id": "c2ca30e7-897e-f519-3122-7aef7db2fb5c",
-            "name": "🧭云播",
-            "api": "https://360zy.com/api.php/provide/vod",
-            "playUrl": "",
-            "search": 1,
-            "group": "切片",
-            "isActive": true,
-            "type": 1,
-            "ext": "",
-            "categories": ""
-        },
-               {
-            "id": "562aeb6b-8c03-3660-54e2-291f121dac9e",
-            "name": "🧞独家",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-            "playUrl": "",
-            "search": 1,
-            "group": "X影视",
-            "isActive": true,
-            "type": 7,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/爱看机器人.js",
-            "categories": ""
-        },
-            {
-            "id": "28393120-9d11-5110-b209-c925b2d8f87e",
-            "name": "🎬独家②",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-            "playUrl": "",
-            "search": 1,
-            "group": "X影视",
-            "isActive": false,
-            "type": 7,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/荐片.js",
-            "categories": ""
-        },
     {
             "id": "89cee8c5-c86a-9391-a9f2-6fb7131614e3",
             "name": "💥iMAX",
@@ -154,18 +107,6 @@
             "categories": ""
         },
 
-             {
-            "id": "ef2c10e3-8d3f-d632-727b-667fdd2e5b50",
-            "name": "🔥动漫",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-            "playUrl": "",
-            "search": 1,
-            "group": "X影视",
-            "isActive": false,
-            "type": 7,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/哔哩影视.js",
-            "categories": ""
-        },
       {
             "id": "f10d2925-a991-1fa1-475f-21ac57ef698f",
             "name": "💢短剧",
@@ -205,54 +146,8 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/网飞猫.js",
             "categories": ""
         },
-                            {
-            "id": "b90da766-fcd4-477e-b595-cd3a23fb85fc",
-            "name": "✈️接口③",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-            "playUrl": "",
-            "search": 1,
-            "group": "X影视",
-            "isActive": false,
-            "type": 7,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/LIBVIO.js",
-            "categories": ""
-        },
-                                    {
-            "id": "2cc99a31-9a03-16f4-3a8e-6db1f113bc5e",
-            "name": "🦆接口④",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-            "playUrl": "",
-            "search": 1,
-            "group": "X影视",
-            "isActive": false,
-            "type": 7,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/农民影视3.js",
-            "categories": ""
-        },
-            {
-            "id": "84439e9-73a8-6b89-b38b-00da01234e76",
-            "name": "📺️接口⑤",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-            "playUrl": "",
-            "search": 1,
-            "group": "X影视",
-            "isActive": false,
-            "type": 7,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/白嫖影视.js",
-            "categories": ""
-        },
-                            {
-            "id": "84439e9-73a8-6b89-b38b-00da01235e76",
-            "name": "🌙接口⑥",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-            "playUrl": "",
-            "search": 1,
-            "group": "X影视",
-            "isActive": false,
-            "type": 7,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/555影视_飞_.js",
-            "categories": ""
-        },
+                          
+
 
                 {
             "id": "8648a04e-afeb-4737-92dc-edb512361fd5",
