@@ -3,23 +3,10 @@
 { //X影视友情提示：不要相信视频中广告，谨防受骗！！！内容来自网络公开数据，仅供个人学习和参考。关注[X开源精粹]和[X影视仓]，获取最新[X影视]数据源
     "tbl_site": [
 
-        {
 
-       "id": "a84439e9-73a8-6b89-b38b-12444cee5e76",
-       "name": "🔥X开源精粹",
-       "type": 7,
-       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
-       "playUrl": "",
-       "search": 1,
-       "group": "X影视",
-       "isActive": true,
-       "categories": "",
-       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/量子影视.js"
-
-    },
          {
             "id": "8648a04e-afeb-4737-92dc-edb5f4ac1fd5",
-            "name": "🔥X影视仓",
+            "name": "🔥X开源精粹",
             "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "",
             "search": 1,
@@ -31,7 +18,7 @@
         },
                  {
             "id": "c2ca30e7-897e-f519-3122-7aef7db2fb5c",
-            "name": "🔥官方①",
+            "name": "🔥X影视仓",
             "api": "https://hhzyapi.com/api.php/provide/vod/",
             "playUrl": "",
             "search": 1,
@@ -169,7 +156,20 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/网飞猫.js",
             "categories": ""
         },
+        {
 
+       "id": "a84439e9-73a8-6b89-b38b-12444cee5e76",
+       "name": "👓影院",
+       "type": 7,
+       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+       "playUrl": "",
+       "search": 1,
+       "group": "X影视",
+       "isActive": true,
+       "categories": "",
+       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/量子影视.js"
+
+    },
      
 
       {
