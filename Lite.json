@@ -30,7 +30,7 @@
         },
                  {
             "id": "a84439e9-73a8-6b89-b38b-12340cee5e76",
-            "name": "🔥官方②",
+            "name": "🔥官方①",
             "api": "https://api.1080zyku.com/inc/apijson.php",
             "playUrl": "",
             "search": 1,
@@ -42,7 +42,7 @@
         },
           {
             "id": "ed148f12-4096-42d4-a1ce-3fcce06109bc",
-            "name": "🔥官方③",
+            "name": "🔥官方②",
             "api": "https://subocaiji.com/api.php/provide/vod/",
             "playUrl": "",
             "search": 1,
@@ -55,7 +55,7 @@
  
                     {
             "id": "c2ca30e7-897e-f519-3122-7aef5db4fb3c",
-            "name": "🔥官方④",
+            "name": "🔥官方③",
             "api": "https://jszyapi.com/api.php/provide/vod/",
             "playUrl": "",
             "search": 1,
@@ -67,7 +67,7 @@
         },
                             {
             "id": "c2ca30e7-897e-f519-3311-7aef5db4fb3c",
-            "name": "🔥官方⑤",
+            "name": "🔥官方④",
             "api": "https://kuaikan-api.com/api.php/provide/vod/",
             "playUrl": "",
             "search": 1,
@@ -79,7 +79,7 @@
         },
                                     {
             "id": "c2ca30e7-897e-f519-4879-7aef5db6fb3c",
-            "name": "🔥官方⑥",
+            "name": "🔥官方⑤",
             "api": "http://zyz.yxys.top/api.php/provide/vod/",
             "playUrl": "",
             "search": 1,
@@ -159,7 +159,7 @@
         {
 
        "id": "a84439e9-73a8-6b89-b38b-12444cee5e76",
-       "name": "👓影院",
+       "name": "👓影院⑥",
        "type": 7,
        "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
        "playUrl": "",
