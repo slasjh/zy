@@ -92,6 +92,31 @@
             "ext": "",
             "categories": ""
         },
+    {
+            "id": "be34332f-2a4e-41f3-9a18-fdd8c702aa75",
+            "name": "🔥采集之王",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 7,
+             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集之王[合].js?type=url&params=https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集静态.json$1",
+            "categories": ""
+        },
+            {
+            "id": "5a1963b7-f761-4429-9583-58310a1ee210",
+            "name": "🔥采王",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "isActive": true,
+            "type": 7,
+             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集之王[合].js?type=url&params=https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集[zy]静态.json$1",
+            "categories": ""
+        },
+
 
    
 
