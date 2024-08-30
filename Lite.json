@@ -84,7 +84,7 @@
     {
             "id": "f1f30ad2-102b-4e91-aa40-0d6853152a1b",
             "name": "🔥采集之王",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min240830.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "切片",
@@ -96,7 +96,7 @@
             {
             "id": "14a1b8ef-aaff-4d79-a5fe-1c4067f636f2",
             "name": "🔥采王",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min240830.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "切片",
