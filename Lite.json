@@ -80,22 +80,11 @@
             "categories": ""
         },
                     
-                                    {
-            "id": "c2ca30e7-897e-f519-4879-7aef5db6fb3c",
-            "name": "🔥影视",
-            "api": "http://zyz.yxys.top/api.php/provide/vod/",
-            "playUrl": "",
-            "search": 1,
-            "group": "切片",
-            "isActive": true,
-            "type": 1,
-            "ext": "",
-            "categories": ""
-        },
+                          
     {
             "id": "be34332f-2a4e-41f3-9a18-fdd8c702aa75",
             "name": "🔥采集之王",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js",
             "playUrl": "",
             "search": 1,
             "group": "切片",
@@ -107,7 +96,7 @@
             {
             "id": "5a1963b7-f761-4429-9583-58310a1ee210",
             "name": "🔥采王",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js",
             "playUrl": "",
             "search": 1,
             "group": "切片",
@@ -186,7 +175,7 @@
                                                             {
             "id": "79215a15-0fb6-4828-af21-f49ef8923ff6",
             "name": "👓黑木耳",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js",
             "playUrl": "",
             "search": 1,
             "group": "切片",
@@ -198,7 +187,7 @@
                                                           {
             "id": "7f7a3994-53ad-4bf2-b249-6e111edc63c6",
             "name": "👓金鹰",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js",
             "playUrl": "",
             "search": 1,
             "group": "切片",
@@ -210,7 +199,7 @@
                                                           {
             "id": "6142b843-fd64-4d21-88f2-bf0e43ef09a4",
             "name": "👓美益达",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
@@ -222,7 +211,7 @@
                                                                 {
             "id": "5f1e6cc4-595c-40fe-8410-e69cbef84636",
             "name": "👓金牌影院",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
