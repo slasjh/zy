@@ -90,19 +90,19 @@
             "group": "切片",
             "isActive": true,
             "type": 7,
-             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集之王[合].js?type=url&params=https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集静态.json$1",
+             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集之王_合_.js?type=url&params=https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集静态.json$1",
             "categories": ""
         },
             {
             "id": "14a1b8ef-aaff-4d79-a5fe-1c4067f636f2",
-            "name": "🔥采王",
+            "name": "🔥采王之后",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "切片",
             "isActive": true,
             "type": 7,
-             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集之王[合].js?type=url&params=https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集[zy]静态.json$1",
+             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集之王_合_.js?type=url&params=https://gitlab.com/mfkdy/cy/-/raw/main/drpy/采集_zy_静态.json$1",
             "categories": ""
         },
 
@@ -127,7 +127,7 @@
                               {
             "id": "59a19f43-e8b7-5359-427f-a007ecd2d8e3",
             "name": "👓TVB云播",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
@@ -139,7 +139,7 @@
                                      {
             "id": "51301480-1d91-4f10-960f-80c0732d2afa",
             "name": "👓荐片",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
@@ -151,7 +151,7 @@
                                              {
             "id": "c136eb6b-3514-4839-90ca-820eebe2aa5e",
             "name": "👓两个BT",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
@@ -163,7 +163,7 @@
                                                      {
             "id": "f412de9e-e2c8-4be5-8d0b-83784eac50b2",
             "name": "👓低端",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
@@ -175,7 +175,7 @@
                                                             {
             "id": "79215a15-0fb6-4828-af21-f49ef8923ff6",
             "name": "👓黑木耳",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "切片",
@@ -187,7 +187,7 @@
                                                           {
             "id": "7f7a3994-53ad-4bf2-b249-6e111edc63c6",
             "name": "👓金鹰",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "切片",
@@ -199,7 +199,7 @@
                                                           {
             "id": "6142b843-fd64-4d21-88f2-bf0e43ef09a4",
             "name": "👓美益达",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
@@ -211,7 +211,7 @@
                                                                 {
             "id": "5f1e6cc4-595c-40fe-8410-e69cbef84636",
             "name": "👓金牌影院",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
@@ -226,7 +226,7 @@
        {
             "id": "89cee8c5-c86a-9391-a9f2-6fb7131614e3",
             "name": "👓6V",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
@@ -238,7 +238,7 @@
           {
             "id": "cb658939-5abf-5d37-81d9-16633d80818e",
             "name": "👓可可",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
@@ -250,7 +250,7 @@
                     {
             "id": "11296d39-f697-875c-4b93-6f44545cc0d8",
             "name": "👓网飞猫",
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
             "playUrl": "",
             "search": 1,
             "group": "X影视",
@@ -264,7 +264,7 @@
        "id": "a84439e9-73a8-6b89-b38b-12444cee5e76",
        "name": "👓量子",
        "type": 7,
-       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
        "playUrl": "",
        "search": 1,
        "group": "X影视",
@@ -278,7 +278,7 @@
        "id": "a84439e9-73a8-6b89-b38b-12444cee5e76",
        "name": "👓机器",
        "type": 7,
-       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min240830.js",
        "playUrl": "",
        "search": 1,
        "group": "X影视",
